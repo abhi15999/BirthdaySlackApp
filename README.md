@@ -2,6 +2,18 @@
 [<img src="https://deploy.stdlib.com/static/images/deploy.svg?" width="192">](https://deploy.stdlib.com/)
 
 ---
+
+Open in Autocode
+================
+
+To add an Open in Autocode button to your GitHub repository,
+simply copy and paste the following code anywhere into README.md
+
+[<img  data-src="https://deploy.stdlib.com/static/images/deploy.svg" width="192">](https://open.autocode.com/)
+
+Enjoy!
+  - Standard Library Team
+
 # Slack App that Sends Automated Birthday Messages to a Channel 🎂 🎉
 
 <img src= "./images/Heading.png" width="400">
